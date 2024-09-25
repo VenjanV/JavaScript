@@ -1,2 +1,2 @@
 # JavaScript
-ToDo list - <a href="https://todolistve.netlify.app">
+ToDo list - <a href="https://todolistve.netlify.app"> TODO
